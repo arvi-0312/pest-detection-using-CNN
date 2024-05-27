@@ -62,7 +62,3 @@ The trained model achieves 94%-97% ACCURACY on the test set, demonstrating its e
 ## Acknowledgments
 
 - https://www.kaggle.com/datasets/rtlmhjbn/ip02-dataset
-
----
-
-Feel free to customize the README file further based on your specific project requirements and additional information you want to include.
